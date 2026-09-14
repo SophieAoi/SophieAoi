@@ -1,96 +1,98 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,100:1B4965&height=170&section=header&text=Sophie%20Aoi&fontSize=44&fontColor=FFFFFF&fontAlignY=36&desc=Computer%20Science%20with%20Artificial%20Intelligence&descSize=16&descAlignY=56" alt="header">
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=900&color=4EA8DE&center=true&vCenter=true&width=560&lines=Image+processing+%26+computer+vision;Machine+learning;Agentic+AI+systems" alt="focus areas">
+  <img src="assets/banner.svg" alt="Sophie Aoi — Computer Science with Artificial Intelligence" width="100%">
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1B2A?style=for-the-badge&logo=linkedin&logoColor=4EA8DE" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-020A18?style=for-the-badge&logo=linkedin&logoColor=3E8FD6" alt="LinkedIn">
   </a>
   <a href="mailto:YOUR-EMAIL@example.com">
-    <img src="https://img.shields.io/badge/Email-0D1B2A?style=for-the-badge&logo=gmail&logoColor=4EA8DE" alt="Email">
+    <img src="https://img.shields.io/badge/Email-020A18?style=for-the-badge&logo=maildotru&logoColor=3E8FD6" alt="Email">
   </a>
-  <img src="https://komarev.com/ghpvc/?username=SophieAoi&style=for-the-badge&color=1B4965&label=PROFILE+VIEWS" alt="profile views">
+  <a href="https://github.com/SophieAoi?tab=repositories">
+    <img src="https://img.shields.io/badge/Projects-020A18?style=for-the-badge&logo=github&logoColor=3E8FD6" alt="Projects">
+  </a>
 </p>
 
 <br>
 
-## &nbsp;🧭&nbsp; About
+## &nbsp;`//`&nbsp; About
 
-Final-year Computer Science with AI student working mostly at the intersection of computer vision and machine learning. Lately I've been building agentic AI systems — models that plan and use tools rather than just answer.
+Final-year Computer Science with AI student working at the intersection of computer vision and machine learning. Lately I've been building agentic AI systems — models that plan and use tools rather than just answer.
 
 ```yaml
-currently_building: "[your final-year project — one line on what it does]"
-learning:           "[e.g. transformers, model deployment, MLOps]"
-interests:          ["image processing", "machine learning", "agentic AI"]
-open_to:            "internships and graduate roles"
+building:  "[your final-year project — one line on what it does]"
+learning:  "[e.g. transformers, model deployment, MLOps]"
+focus:     ["image processing", "machine learning", "agentic AI"]
+open_to:   "internships and graduate roles"
 ```
 
 <br>
 
-## &nbsp;🛠&nbsp; Tech Stack
+## &nbsp;`//`&nbsp; Stack
 
 <table>
   <tr>
-    <td><b>ML / AI</b></td>
+    <td width="110"><b>ML / AI</b></td>
     <td>
-      <img src="https://img.shields.io/badge/PyTorch-0D1B2A?style=flat-square&logo=pytorch&logoColor=4EA8DE">
-      <img src="https://img.shields.io/badge/TensorFlow-0D1B2A?style=flat-square&logo=tensorflow&logoColor=4EA8DE">
-      <img src="https://img.shields.io/badge/scikit--learn-0D1B2A?style=flat-square&logo=scikit-learn&logoColor=4EA8DE">
-      <img src="https://img.shields.io/badge/OpenCV-0D1B2A?style=flat-square&logo=opencv&logoColor=4EA8DE">
+      <img src="https://img.shields.io/badge/PyTorch-020A18?style=flat-square&logo=pytorch&logoColor=3E8FD6">
+      <img src="https://img.shields.io/badge/TensorFlow-020A18?style=flat-square&logo=tensorflow&logoColor=3E8FD6">
+      <img src="https://img.shields.io/badge/scikit--learn-020A18?style=flat-square&logo=scikit-learn&logoColor=3E8FD6">
+      <img src="https://img.shields.io/badge/OpenCV-020A18?style=flat-square&logo=opencv&logoColor=3E8FD6">
     </td>
   </tr>
   <tr>
     <td><b>Languages</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Python-0D1B2A?style=flat-square&logo=python&logoColor=4EA8DE">
-      <img src="https://img.shields.io/badge/Java-0D1B2A?style=flat-square&logo=openjdk&logoColor=4EA8DE">
-      <img src="https://img.shields.io/badge/C++-0D1B2A?style=flat-square&logo=cplusplus&logoColor=4EA8DE">
-      <img src="https://img.shields.io/badge/JavaScript-0D1B2A?style=flat-square&logo=javascript&logoColor=4EA8DE">
-      <img src="https://img.shields.io/badge/SQL-0D1B2A?style=flat-square&logo=postgresql&logoColor=4EA8DE">
+      <img src="https://img.shields.io/badge/Python-020A18?style=flat-square&logo=python&logoColor=3E8FD6">
+      <img src="https://img.shields.io/badge/Java-020A18?style=flat-square&logo=openjdk&logoColor=3E8FD6">
+      <img src="https://img.shields.io/badge/C++-020A18?style=flat-square&logo=cplusplus&logoColor=3E8FD6">
+      <img src="https://img.shields.io/badge/JavaScript-020A18?style=flat-square&logo=javascript&logoColor=3E8FD6">
+      <img src="https://img.shields.io/badge/SQL-020A18?style=flat-square&logo=postgresql&logoColor=3E8FD6">
     </td>
   </tr>
   <tr>
     <td><b>Data</b></td>
     <td>
-      <img src="https://img.shields.io/badge/NumPy-0D1B2A?style=flat-square&logo=numpy&logoColor=4EA8DE">
-      <img src="https://img.shields.io/badge/pandas-0D1B2A?style=flat-square&logo=pandas&logoColor=4EA8DE">
-      <img src="https://img.shields.io/badge/Jupyter-0D1B2A?style=flat-square&logo=jupyter&logoColor=4EA8DE">
+      <img src="https://img.shields.io/badge/NumPy-020A18?style=flat-square&logo=numpy&logoColor=3E8FD6">
+      <img src="https://img.shields.io/badge/pandas-020A18?style=flat-square&logo=pandas&logoColor=3E8FD6">
+      <img src="https://img.shields.io/badge/Jupyter-020A18?style=flat-square&logo=jupyter&logoColor=3E8FD6">
     </td>
   </tr>
   <tr>
     <td><b>Tools</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Git-0D1B2A?style=flat-square&logo=git&logoColor=4EA8DE">
-      <img src="https://img.shields.io/badge/Docker-0D1B2A?style=flat-square&logo=docker&logoColor=4EA8DE">
-      <img src="https://img.shields.io/badge/Linux-0D1B2A?style=flat-square&logo=linux&logoColor=4EA8DE">
-      <img src="https://img.shields.io/badge/VS%20Code-0D1B2A?style=flat-square&logo=visualstudiocode&logoColor=4EA8DE">
+      <img src="https://img.shields.io/badge/Git-020A18?style=flat-square&logo=git&logoColor=3E8FD6">
+      <img src="https://img.shields.io/badge/Docker-020A18?style=flat-square&logo=docker&logoColor=3E8FD6">
+      <img src="https://img.shields.io/badge/Linux-020A18?style=flat-square&logo=linux&logoColor=3E8FD6">
+      <img src="https://img.shields.io/badge/VS%20Code-020A18?style=flat-square&logo=visualstudiocode&logoColor=3E8FD6">
     </td>
   </tr>
 </table>
 
 <br>
 
-## &nbsp;📊&nbsp; Activity
+## &nbsp;`//`&nbsp; Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SophieAoi&bg_color=0D1B2A&color=C9D6DF&line=4EA8DE&point=FFFFFF&area=true&area_color=1B4965&hide_border=true&custom_title=Contributions%20over%20the%20last%2031%20days" alt="contribution graph">
-</p>
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SophieAoi&show_icons=true&hide_border=true&bg_color=0D1B2A&title_color=4EA8DE&text_color=C9D6DF&icon_color=4EA8DE" alt="GitHub stats">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SophieAoi&layout=compact&hide_border=true&bg_color=0D1B2A&title_color=4EA8DE&text_color=C9D6DF&langs_count=6" alt="top languages">
+  <img src="https://raw.githubusercontent.com/SophieAoi/SophieAoi/output/contribution-graph.svg" alt="contribution graph" width="100%">
 </p>
 
 <br>
 
-<p align="center">
-  <sub>📌 Pinned projects below · always happy to talk about vision models and agents</sub>
-</p>
+## &nbsp;`//`&nbsp; Selected Work
+
+| Project | What it does | Stack |
+| :--- | :--- | :--- |
+| **[Repo one](https://github.com/SophieAoi/repo-one)** | One line on the problem it solves | `Python` `PyTorch` |
+| **[Repo two](https://github.com/SophieAoi/repo-two)** | One line on the problem it solves | `Python` `OpenCV` |
+| **[Repo three](https://github.com/SophieAoi/repo-three)** | One line on the problem it solves | `Java` |
+| **[Repo four](https://github.com/SophieAoi/repo-four)** | One line on the problem it solves | `Python` |
+
+<br>
+
+---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B4965,100:0D1B2A&height=90&section=footer" alt="footer">
+  <sub>Always happy to talk about vision models, ML pipelines, and agents.</sub>
 </p>
