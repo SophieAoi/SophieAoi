@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Sophie 👋</h1> <p align="center"> <em>Third-year Computer Science with Artificial Intelligence student</em><br> <em>Image processing · Machine learning · Agentic AI</em> </p> <p align="center"> <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"> <img src="https://img.shields.io/badge/LinkedIn-0D1B2A?style=flat-square&logo=linkedin&logoColor=4EA8DE" alt="LinkedIn"> </a> <a href="mailto:YOUR-EMAIL@example.com"> <img src="https://img.shields.io/badge/Email-0D1B2A?style=flat-square&logo=gmail&logoColor=4EA8DE" alt="Email"> </a> </p>
+About
 
-<!--
-**SophieAoi/SophieAoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently in my final year of a CS with AI degree, working mostly at the intersection of computer vision and machine learning. Lately I've been spending time on agentic AI — systems that plan and use tools rather than just answer.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Currently working on [your final-year project — one line on what it does]
+🌱 Learning more about [e.g. model deployment, transformers, MLOps]
+💬 Happy to talk about computer vision, ML pipelines, or anything agentic
+📫 Reach me on LinkedIn
+Tech Stack
+<p> <img src="https://img.shields.io/badge/Python-0D1B2A?style=flat-square&logo=python&logoColor=4EA8DE"> <img src="https://img.shields.io/badge/PyTorch-0D1B2A?style=flat-square&logo=pytorch&logoColor=4EA8DE"> <img src="https://img.shields.io/badge/TensorFlow-0D1B2A?style=flat-square&logo=tensorflow&logoColor=4EA8DE"> <img src="https://img.shields.io/badge/OpenCV-0D1B2A?style=flat-square&logo=opencv&logoColor=4EA8DE"> <img src="https://img.shields.io/badge/NumPy-0D1B2A?style=flat-square&logo=numpy&logoColor=4EA8DE"> <img src="https://img.shields.io/badge/pandas-0D1B2A?style=flat-square&logo=pandas&logoColor=4EA8DE"> <img src="https://img.shields.io/badge/scikit--learn-0D1B2A?style=flat-square&logo=scikit-learn&logoColor=4EA8DE"> </p> <p> <img src="https://img.shields.io/badge/Java-0D1B2A?style=flat-square&logo=openjdk&logoColor=4EA8DE"> <img src="https://img.shields.io/badge/C++-0D1B2A?style=flat-square&logo=cplusplus&logoColor=4EA8DE"> <img src="https://img.shields.io/badge/JavaScript-0D1B2A?style=flat-square&logo=javascript&logoColor=4EA8DE"> <img src="https://img.shields.io/badge/SQL-0D1B2A?style=flat-square&logo=postgresql&logoColor=4EA8DE"> </p> <p> <img src="https://img.shields.io/badge/Git-0D1B2A?style=flat-square&logo=git&logoColor=4EA8DE"> <img src="https://img.shields.io/badge/Docker-0D1B2A?style=flat-square&logo=docker&logoColor=4EA8DE"> <img src="https://img.shields.io/badge/Linux-0D1B2A?style=flat-square&logo=linux&logoColor=4EA8DE"> <img src="https://img.shields.io/badge/Jupyter-0D1B2A?style=flat-square&logo=jupyter&logoColor=4EA8DE"> </p>
+GitHub Stats
+<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=SophieAoi&show_icons=true&hide_border=true&bg_color=0D1B2A&title_color=4EA8DE&text_color=C9D6DF&icon_color=4EA8DE" alt="GitHub stats"> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SophieAoi&layout=compact&hide_border=true&bg_color=0D1B2A&title_color=4EA8DE&text_color=C9D6DF" alt="Top languages"> </p>
+<p align="center"> <sub>Thanks for stopping by — my pinned repositories are below.</sub> </p>
